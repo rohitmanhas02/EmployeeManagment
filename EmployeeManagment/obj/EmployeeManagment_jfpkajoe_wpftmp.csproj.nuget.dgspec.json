@@ -1,0 +1,85 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Projects\\EmployeeManagment\\EmployeeManagmentWPF\\EmployeeManagment\\EmployeeManagment.csproj": {}
+  },
+  "projects": {
+    "F:\\Projects\\EmployeeManagment\\EmployeeManagmentWPF\\DataAccessLayer\\DataAccessLayer.csproj": {
+      "restore": {
+        "projectUniqueName": "F:\\Projects\\EmployeeManagment\\EmployeeManagmentWPF\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectName": "DataAccessLayer",
+        "projectPath": "F:\\Projects\\EmployeeManagment\\EmployeeManagmentWPF\\DataAccessLayer\\DataAccessLayer.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "F:\\Projects\\EmployeeManagment\\EmployeeManagmentWPF\\EmployeeManagment\\EmployeeManagment.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Projects\\EmployeeManagment\\EmployeeManagmentWPF\\EmployeeManagment\\EmployeeManagment.csproj",
+        "projectName": "EmployeeManagment",
+        "projectPath": "F:\\Projects\\EmployeeManagment\\EmployeeManagmentWPF\\EmployeeManagment\\EmployeeManagment.csproj",
+        "packagesPath": "C:\\Users\\rohit\\.nuget\\packages\\",
+        "outputPath": "F:\\Projects\\EmployeeManagment\\EmployeeManagmentWPF\\EmployeeManagment\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rohit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "F:\\Projects\\EmployeeManagment\\EmployeeManagmentWPF\\DataAccessLayer\\DataAccessLayer.csproj": {
+                "projectPath": "F:\\Projects\\EmployeeManagment\\EmployeeManagmentWPF\\DataAccessLayer\\DataAccessLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-preview.6.21355.2\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

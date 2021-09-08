@@ -1,0 +1,12 @@
+F:\Projects\EmployeeManagment\EmployeeManagmentWPF\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+F:\Projects\EmployeeManagment\EmployeeManagmentWPF\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+F:\Projects\EmployeeManagment\EmployeeManagmentWPF\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+F:\Projects\EmployeeManagment\EmployeeManagmentWPF\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+F:\Projects\EmployeeManagment\EmployeeManagmentWPF\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+F:\Projects\EmployeeManagment\EmployeeManagmentWPF\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+F:\Projects\EmployeeManagment\EmployeeManagmentWPF\DataAccessLayer\bin\Debug\EntityFramework.dll
+F:\Projects\EmployeeManagment\EmployeeManagmentWPF\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+F:\Projects\EmployeeManagment\EmployeeManagmentWPF\DataAccessLayer\bin\Debug\EntityFramework.xml
+F:\Projects\EmployeeManagment\EmployeeManagmentWPF\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+F:\Projects\EmployeeManagment\EmployeeManagmentWPF\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+F:\Projects\EmployeeManagment\EmployeeManagmentWPF\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
